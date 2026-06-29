@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Tasks and Notes",
+  "description": "A minimalist, Notion-inspired task tracker and rich note-taking workspace with markdown support, kanban boards, and global command palette search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
